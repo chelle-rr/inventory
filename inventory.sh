@@ -2,16 +2,6 @@
 
 #set -x
 
-# # Enter directory to search
-# echo "Please enter the directory to search: "
-# read -r dir
-
-# # Check if input directory is correct
-# if [ ! -d "$dir" ]; then
-  # echo "Error: Directory $dir does not exist."
-  # exit 1
-# fi
-
 # Directory to save output
 out_dir="/home/chelle/working_files"
 
